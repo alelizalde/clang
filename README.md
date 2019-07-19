@@ -4,4 +4,6 @@ Install on mac X
 xcode-select --install 
 g++ --version
 
-execute `g++ -Wall -std=c++17 hello.cpp`
+compile `g++ -Wall -std=c++17 hello.cpp -o hello`
+
+execute ./hello
