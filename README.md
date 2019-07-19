@@ -6,4 +6,4 @@ g++ --version
 
 compile `g++ -Wall -std=c++17 hello.cpp -o hello`
 
-execute ./hello
+execute `./hello`
